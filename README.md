@@ -2,6 +2,6 @@
 
 🖥️ Atualmente, na empresa onde trabalho, sou responsável pelo desenvolvimento de soluções web personalizadas para nossos clientes, utilizando o framework Django. No front-end, aplico tecnologias como JavaScript, garantindo interfaces dinâmicas e interativas.
 
-Também atuo na criação de automações com Python, otimizando processos e aumentando a eficiência operacional. Tenho experiência em processos de ETL, utilizando Python e MySQL, para transformar e integrar grandes volumes de dados.
+📊 Também atuo na criação de automações com Python, otimizando processos e aumentando a eficiência operacional. Tenho experiência em processos de ETL, utilizando Python e MySQL, para transformar e integrar grandes volumes de dados.
 
-Estou sempre em busca de novas oportunidades para aplicar minhas habilidades e contribuir para projetos desafiadores e inovadores.
+👨🏻‍💻 Estou sempre em busca de novas oportunidades para aplicar minhas habilidades e contribuir para projetos desafiadores e inovadores.
