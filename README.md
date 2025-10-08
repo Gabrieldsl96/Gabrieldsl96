@@ -58,4 +58,4 @@ Estou sempre interessado em projetos desafiadores e oportunidades de colaboraç�
 
 ---
 
-⭐️ From [Gabriel Lemos](https://github.com/Gabrieldsl96)
+⭐️ Feito por [Gabriel Lemos](https://github.com/Gabrieldsl96)
