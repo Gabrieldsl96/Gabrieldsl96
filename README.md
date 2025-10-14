@@ -98,4 +98,4 @@ const gabriel = {
 
 ⭐️ **Gostou do meu perfil?** Deixe uma estrela nos meus projetos!
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Gabrieldsl96&color=blueviolet&style=for-the-badge)
