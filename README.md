@@ -5,7 +5,7 @@
 Sou um desenvolvedor Full Stack apaixonado por criar soluções digitais escaláveis e de alta performance. Transformo ideias em aplicações reais, com código limpo e arquitetura sólida.
 
 📍 Varginha - MG, Brasil  
-💼 Desenvolvedor Full Stack
+💼 Desenvolvedor Full Stack  
 🎯 Disponível para oportunidades remotas
 
 ---
