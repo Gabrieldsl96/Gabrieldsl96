@@ -1,11 +1,11 @@
 # Olá! Eu sou o Gabriel Lemos 👋
 
-## 🚀 Desenvolvedor Full Stack | React | Node.js | TypeScript
+## 🚀 Desenvolvedor Full Stack
 
 Sou um desenvolvedor Full Stack apaixonado por criar soluções digitais escaláveis e de alta performance. Transformo ideias em aplicações reais, com código limpo e arquitetura sólida.
 
 📍 Varginha - MG, Brasil  
-💼 Desenvolvedor Full Stack Freelancer  
+💼 Desenvolvedor Full Stack
 🎯 Disponível para oportunidades remotas
 
 ---
