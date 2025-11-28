@@ -13,7 +13,9 @@ Sempre aberto a networking, novos desafios e troca de conhecimento.
 💡Habilidades:
 
 • HTML, CSS, Tailwind CSS, Javascript, Typescript, React, React Native, React Hooks, React Hook Form, Zod, Shadcn/ui, Context API, Tanstack Query, Axios, Stripe Payments
+
 • Node.js, Express.js, API REST, Drizzle ORM, BetterAuth, OTP, JWT, Jest, MySQL, PostgreSQL, MongoDB, Socket
+
 • Frontend, Backend, Full Stack, CI/CD, Docker, Docker Compose, VPS, Linux, Vercel, Render, Hostinger
 
 🖥️ Alguns projetos realizados:
