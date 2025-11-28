@@ -2,9 +2,29 @@
 
 ## 🚀 Desenvolvedor Full Stack
 
-Sou um desenvolvedor Full Stack apaixonado por transformar ideias em soluções digitais escaláveis e de alta performance. Minha paixão é criar aplicações que resolvem problemas reais, combinando código limpo, arquitetura sólida e as melhores práticas do mercado.
+Sou desenvolvedor Full Stack com experiência em criar soluções web completas desde a arquitetura backend até interfaces modernas e funcionais. Trabalho com TI há mais de 9 anos, onde atuei por anos estruturando infraestrutura, redes e servidores, e hoje transformo esse conhecimento em sistemas robustos, escaláveis e voltados para automação, produtividade e eficiência.
 
-Especializado em desenvolvimento full stack, trabalho tanto no front-end quanto no back-end para entregar soluções completas. Utilizo React, Next.js e TypeScript para criar interfaces modernas e responsivas, enquanto no back-end desenvolvo APIs RESTful robustas com Node.js e Express.js.
+Nos últimos anos, trabalhei desenvolvendo sistemas web, integrações com APIs, automações fiscais, dashboards financeiros e processamento de dados em grande escala. Já atuei com tecnologias como React, Next.js, Node.js, Typescript, Express.js, Django, Docker, CI/CD, Drizzle ORM, PostgreSQL, MySQL, MongoDB, integrações com APIs externas, além de ferramentas e boas práticas modernas relacionadas a esse ecossistema, sempre buscando boas práticas, performance e experiência do usuário.
+
+Meu objetivo agora é continuar evoluindo como desenvolvedor Full Stack, atuando em projetos desafiadores, com foco em arquitetura de software, integrações complexas e criação de plataformas escaláveis. 
+
+Sempre aberto a networking, novos desafios e troca de conhecimento.
+
+💡Habilidades:
+
+• HTML, CSS, Tailwind CSS, Javascript, Typescript, React, React Native, React Hooks, React Hook Form, Zod, Shadcn/ui, Context API, Tanstack Query, Axios, Stripe Payments
+• Node.js, Express.js, API REST, Drizzle ORM, BetterAuth, OTP, JWT, Jest, MySQL, PostgreSQL, MongoDB, Socket
+• Frontend, Backend, Full Stack, CI/CD, Docker, Docker Compose, VPS, Linux, Vercel, Render, Hostinger
+
+🖥️ Alguns projetos realizados:
+
+• Sistema de gestão e automação fiscal com certificados digitais: Desenvolvimento de um sistema web para cadastro e gerenciamento de certificados digitais, integrada à API do Integra Contador para consulta automatizada ao e-CAC. O sistema consolida informações como caixa postal, situação fiscal e pendências de múltiplos CNPJs com procuração ativa, permitindo filtros avançados, alertas automáticos (ex.: existência de processos) e visualização unificada, eliminando a necessidade de consultas individuais no portal oficial.
+
+• Sistema de gestão financeira e orçamentária: Desenvolvimento de um sistema web para controle de balancetes, planejamento orçamentário e comparação entre valores previstos e realizados. Inclui estrutura hierárquica de contas, cálculo automático por mês e total anual, edição dinâmica de fórmulas e interface em formato similar a planilha para facilitar análise contábil.
+
+• Sistema de automação fiscal: Desenvolvimento de um sistema web para importação e processamento em massa de XML e arquivos Excel, com extração automática de dados fiscais. Integração com API oficial para consulta e validação de CNPJ, identificação de regime tributário e análise de tributação de IPI. Geração automática de planilhas consolidadas e enriquecidas para uso contábil e fiscal.
+
+• Sistema de análise financeira (DRE + Dashboard): Desenvolvimento de um sistema web que importa dados financeiros via Excel e transforma automaticamente as informações em uma Demonstração de Resultados (DRE) estruturada. Incluem filtros dinâmicos, exportação para planilhas e dashboard interativo com indicadores financeiros, gráficos e análise visual de despesas, receitas, lucros e centros de custos.
 
 ---
 
