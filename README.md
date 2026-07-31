@@ -1,101 +1,95 @@
-# Olá! Eu sou o Gabriel Lemos 👋
+<h1 align="center">Gabriel Lemos</h1>
 
-## 🚀 Backend Developer
+<p align="center">
+  <strong>Software Engineer · Full Stack</strong>
+</p>
 
-Sou desenvolvedor Backend com experiência na construção de APIs REST, modelagem de banco de dados, integrações com serviços externos e processamento de dados em larga escala.
-
-Atuo com TI há mais de 9 anos, iniciando minha trajetória em infraestrutura, redes e servidores, o que me proporcionou uma visão profunda sobre sistemas distribuídos, ambientes produtivos e estabilidade operacional. Hoje aplico esse conhecimento no desenvolvimento de soluções backend robustas, escaláveis e orientadas a regras de negócio complexas.
-
-Tenho experiência no desenvolvimento de sistemas para áreas fiscais, financeiras e contábeis, trabalhando com alto volume de dados, integrações governamentais e automações críticas.
-
-Meu foco atual é evoluir cada vez mais como Backend Engineer, atuando em projetos que envolvam:
-
-- Arquitetura de APIs
-- Modelagem eficiente de dados
-- Integrações complexas
-- Performance e escalabilidade
-- Boas práticas e código limpo
-- Sistemas orientados a domínio
-
-Sempre aberto a networking, troca de conhecimento e novos desafios 🚀
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:gabrieldasilvalemos96@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-## 💡 Habilidades
+## Sobre mim
 
-• Node.js  
-• Express.js  
-• Python  
-• Django  
-• APIs REST  
-• SQL (PostgreSQL, MySQL)  
-• MongoDB  
-• Modelagem de Banco de Dados  
-• JWT & Autenticação  
-• Zod (validação de dados)  
-• Jest (testes automatizados)  
-• Docker & Docker Compose  
-• CI/CD  
-• Linux  
-• Integrações com APIs externas  
-• Processamento de dados com Pandas  
+Sou desenvolvedor full stack há mais de 3 anos, com experiência em sistemas para áreas fiscais, financeiras e contábeis, entre outras, sempre lidando com alto volume de dados, integrações governamentais e regras de negócio que não admitem erro de cálculo. Boa parte do meu trabalho consiste em transformar processos manuais e repetitivos em automações confiáveis, reduzindo tempo de operação e custo para o negócio.
+
+Gosto de projetos em que a decisão técnica tem consequência clara: pipelines de dados que precisam rodar todos os dias, APIs que sustentam operação, painéis de BI que orientam a gestão e aplicações com LLMs que resolvem um problema concreto em vez de servirem só de vitrine.
 
 ---
 
-## 🖥️ Alguns projetos realizados
+## Stack
 
-• **Sistema de gestão e automação fiscal com certificados digitais:**  
-Desenvolvimento de backend para cadastro e gerenciamento de certificados digitais, integrado à API do Integra Contador para consulta automatizada ao e-CAC. O sistema consolida informações como caixa postal, situação fiscal e pendências de múltiplos CNPJs com procuração ativa, permitindo filtros avançados, alertas automáticos e visualização unificada.
+**Backend**
 
-• **Sistema de gestão financeira e orçamentária:**  
-Desenvolvimento de backend responsável por estrutura hierárquica de contas, cálculos automáticos mensais e anuais, regras de negócio financeiras complexas e exportação estruturada de dados para análise contábil.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST](https://img.shields.io/badge/APIs_REST-005571?style=flat-square&logo=fastapi&logoColor=white)
 
-• **Sistema de automação fiscal (XML e Excel):**  
-Processamento em massa de XML e planilhas, extração automatizada de dados fiscais, integração com API oficial para validação de CNPJ e geração automática de relatórios consolidados.
+**Frontend**
 
-• **Sistema de análise financeira (DRE + Dashboard):**  
-Backend para importação de dados via Excel, geração automática de DRE estruturada, cálculos financeiros, agregações e fornecimento de APIs para dashboards interativos.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Django Templates](https://img.shields.io/badge/Django_Templates-092E20?style=flat-square&logo=django&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Dados, filas e processamento assíncrono**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL_%2F_ELT-2F4F4F?style=flat-square&logo=apacheairflow&logoColor=white)
+![BI](https://img.shields.io/badge/Business_Intelligence-1D6F42?style=flat-square&logo=googleanalytics&logoColor=white)
+
+**IA e LLMs**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?style=flat-square&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FFDE57?style=flat-square&logo=chromadb&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-6E4AFF?style=flat-square&logo=databricks&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+**DevOps e ferramentas**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Integrações**
+
+![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 
 ---
 
-## 💻 Tecnologias & Ferramentas
+## Arquitetura e práticas
 
-### Back-end
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![API REST](https://img.shields.io/badge/API_REST-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+Trabalho tanto com monolitos bem organizados quanto com microserviços, escolhendo a abordagem pelo problema e pelo tamanho do time em vez de seguir tendência. Tenho experiência em aplicações multi-tenant e produtos SaaS, modelagem de dados para BI, pipelines de ETL/ELT com processamento assíncrono, e esteiras de CI/CD que levam código à produção com previsibilidade.
 
-### Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Arquitetura & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+| Área | O que faço |
+|---|---|
+| Arquitetura | Monolito, microserviços, multi-tenant, SaaS |
+| Dados | Modelagem dimensional, ETL/ELT, BI, alto volume |
+| IA | RAG, agentes, orquestração com LangChain/LangGraph, integração de LLMs em produto |
+| Integrações | APIs REST, integrações governamentais e fiscais, WhatsApp API |
+| Operação | Docker, Linux, CI/CD, estabilidade em produção |
 
 ---
 
-## 📫 Entre em Contato
+## GitHub
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-dasilva-lemos/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieldasilvalemos96@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabrieldsl96)
-
----
-
-## 💡 Frase Favorita
-
-> "Sistemas robustos são construídos com arquitetura clara, responsabilidade e atenção aos detalhes."
-
----
-
-⭐️ **Gostou do meu perfil?** Deixe uma estrela nos meus projetos!
-
-![Profile Views](https://komarev.com/ghpvc/?username=Gabrieldsl96&color=blueviolet&style=for-the-badge)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabrieldsl96&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieldsl96&layout=compact&hide_border=true" alt="Linguagens mais usadas" height="150">
+</p>
