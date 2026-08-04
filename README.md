@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-Sou desenvolvedor full stack há mais de 3 anos, com experiência em sistemas para áreas fiscais, financeiras e contábeis, entre outras, sempre lidando com alto volume de dados, integrações governamentais e regras de negócio que não admitem erro de cálculo. Boa parte do meu trabalho consiste em transformar processos manuais e repetitivos em automações confiáveis, reduzindo tempo de operação e custo para o negócio.
+Sou desenvolvedor full stack há mais de 3 anos, com experiência em sistemas para áreas fiscais, financeiras, contábeis, entre outras áreas sempre lidando com alto volume de dados, integrações governamentais e regras de negócio que não admitem erro de cálculo. Boa parte do meu trabalho consiste em transformar processos manuais e repetitivos em automações confiáveis, reduzindo tempo de operação e custo para o negócio.
 
 Gosto de projetos em que a decisão técnica tem consequência clara: pipelines de dados que precisam rodar todos os dias, APIs que sustentam operação, painéis de BI que orientam a gestão e aplicações com LLMs que resolvem um problema concreto em vez de servirem só de vitrine.
 
